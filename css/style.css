@@ -115,3 +115,14 @@ header nav a:hover
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover
+{
+    color: black;
+    transition: .3s ease all;
+}
